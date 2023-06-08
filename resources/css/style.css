@@ -26,6 +26,11 @@ body {
   color:blue;
 }
 
+a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 ul {
   margin: 0px;
   padding: 0px;

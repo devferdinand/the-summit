@@ -9,7 +9,6 @@
 1. Margins
 2. Border-box
 3. Padding
-
 ```
 ## Learned
 ```
